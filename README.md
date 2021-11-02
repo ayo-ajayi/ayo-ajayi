@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 
 
-"if you can't do what you imagine, then what is imagination to you?
+"if you can't do what you dream, then what is imagination to you?
 Is it then a waste of space in your brain?"
