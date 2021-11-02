@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C, Node JS, etc
 - 🌱 I’m currently learning Hardware, OS, Embedded systems and Backend Web
 - 👯 I’m looking to collaborate on all things innovative
+
+
+
+
+"if you can't do what you imagine, then what is imagination to you?
+Is it then a waste of space in your brain?"
