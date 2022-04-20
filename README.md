@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about how to change the world
 - 🔭 I write C, Go & Node JS etc
-- 🌱 I’m currently learning Hardware, OS, Embedded systems and Backend Web
+- 🌱 I’m an Electrical Engineering student currently learning Hardware, OS, Embedded systems and Server-side Engineering.
 - 👯 I’m looking to collaborate on all things innovative
 
 
