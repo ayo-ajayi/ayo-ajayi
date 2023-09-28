@@ -7,7 +7,7 @@
   - **Intermediate**: C/C++, SQL, JavaScript, VHDL
   - **Familiar**: Python, Lua
 
-- **Databases**: Redis, CreditDB (a project of mine), MongoDB, PostgreSQL
+- **Databases**: Redis, [CreditDB](https://github.com/creditdb), MongoDB, PostgreSQL
 
 ---
 
@@ -21,7 +21,7 @@
 🌐 **Backend Development**: 
 
 - **Passion**: A zeal for server-side engineering.
-- **Code Quality**: Committed to crafting clean, secure, and maintainable code with proper dependency injection and strict adherence to software best practices.
+- **Code Quality**: Committed to crafting clean, secure, and maintainable code with proper dependency injection and a strict adherence to software best practices.
 - **Skill Enhancement**: Engaging with cloud technologies, with a particular interest in Kubernetes and AWS.
 
 ---
@@ -37,4 +37,3 @@
 ✍️ **Favorite Quote**:
 
 - "It's easy to imagine, but it's easier to do nothing. If you don't chase your dreams, then what is imagination to you?"
-
