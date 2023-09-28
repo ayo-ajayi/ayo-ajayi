@@ -1,18 +1,40 @@
-### Hi there 👋
+### Hello, I'm Ayo Ajayi! 👋
 
-<!--
-**ayo-ajayi/ayo-ajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Technical Skills**: 
 
-Here are some ideas to get you started:
+- **Programming Languages**: 
+  - **Proficient**: Go, TypeScript
+  - **Intermediate**: C/C++, SQL, JavaScript, VHDL
+  - **Familiar**: Python, Lua
 
+- **Databases**: Redis, CreditDB (a project of mine), MongoDB, PostgreSQL
 
--->
-- 💬 Ask me about how to change the world
-- 🔭 I write C/C++, Go & JS etc
-- 🌱 I’m an Electrical Engineering student with interests in Electronics, Embedded systems and Server-side Engineering(Backend Dev).
-- 👯 I’m looking to collaborate on all things innovative
+---
 
+🎓 **Education**: 
 
+- Pursuing a degree in **Electrical Engineering**.
+- Actively exploring and deeply passionate about electronics, embedded systems, telecommunication, and signal processing. Open to opportunities and collaborations in these areas.
 
+---
 
-"It's easy to imagine, but it's easier to do nothing. If you don't do what you dream, then what is imagination to you?"
+🌐 **Backend Development**: 
+
+- **Passion**: A zeal for server-side engineering.
+- **Code Quality**: Committed to crafting clean, secure, and maintainable code with proper dependency injection and strict adherence to software best practices.
+- **Skill Enhancement**: Engaging with cloud technologies, with a particular interest in Kubernetes and AWS.
+
+---
+
+🚀 **General Interests**:
+
+- Open to collaborating on groundbreaking projects.
+- Always keen on expanding horizons and embracing new challenges.
+- **Adaptable**: Beyond the tools and technologies I've listed, I'm highly flexible and open to diving into any tool or tech needed to deliver excellence.
+
+---
+
+✍️ **Favorite Quote**:
+
+- "It's easy to imagine, but it's easier to do nothing. If you don't chase your dreams, then what is imagination to you?"
+
