@@ -13,7 +13,7 @@
 
 🎓 **Education**: 
 
-- Pursuing a degree in **Electrical Engineering**.
+- **Electrical Engineering**.
 - Actively exploring and deeply passionate about electronics, embedded systems, telecommunication, and signal processing. Open to opportunities and collaborations in these areas.
 
 ---
