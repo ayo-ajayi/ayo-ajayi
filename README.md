@@ -3,9 +3,9 @@
 🔧 **Technical Skills**: 
 
 - **Programming Languages**: 
-  - **Proficient**: Go, TypeScript
-  - **Intermediate**: C/C++, SQL, JavaScript, VHDL
-  - **Familiar**: Python, Lua
+  - **Proficient**: Go, TypeScript, Python
+  - **Intermediate**: C/C++, SQL, JavaScript
+  - **Familiar**: Lua, VHDL
 
 - **Databases**: Redis, [CreditDB](https://github.com/creditdb), MongoDB, PostgreSQL
 
@@ -14,7 +14,7 @@
 🎓 **Education**: 
 
 - **Electrical Engineering**.
-- Actively exploring and deeply passionate about electronics, embedded systems, telecommunication, and signal processing. Open to opportunities and collaborations in these areas.
+- Actively exploring and deeply passionate about electronics, optics, photonics, nanotechnology, embedded systems, telecommunication, and signal processing. Open to opportunities and collaborations in these areas.
 
 ---
 
